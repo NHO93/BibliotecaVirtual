@@ -3,6 +3,8 @@
 Uma aplicação web desenvolvida em **Django** para gerenciar coleções de livros. Os usuários podem criar, visualizar, editar e excluir suas próprias coleções, além de listar livros disponíveis.
 
 ---
+Autor(es): Edenilson Fabiano
+---
 
 ## 🚀 Funcionalidades
 
