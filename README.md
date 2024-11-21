@@ -35,8 +35,8 @@ Uma aplicação web desenvolvida em **Django** para gerenciar coleções de livr
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/biblioteca-virtual.git
-cd biblioteca-virtual
+git clone https://github.com/NHO93/BibliotecaVirtual.git
+cd BibliotecaVirtual
 ```
 
 ### 2. Crie um ambiente virtual
